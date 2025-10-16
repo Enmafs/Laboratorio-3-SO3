@@ -1,6 +1,6 @@
 Módulo-3-SO3-CLI Comandos utilizados en Laboratorio Módulo 3 - Sistemas Operativos III
 
-Este repositorio contiene los comandos prácticos con los cuales se desarrollaron las prácticas de el segundo laboratorio de la asignatura Sistemas Operativos III, impartida por el profesor Adrian Alcantara.
+Este repositorio contiene los comandos prácticos con los cuales se desarrollaron las prácticas de el tercer laboratorio de la asignatura Sistemas Operativos III, impartida por el profesor Adrian Alcantara.
 
 En el mismo se desarrollaron los siguientes temas:                                                                                                                                                           
 Práctica 1:                                                                                                                                                                                                           
