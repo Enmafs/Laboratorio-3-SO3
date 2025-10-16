@@ -18,5 +18,5 @@ Práctica 3:
 • Copie la llave publica generada al servidor.                                                                                                                                                                       
 • Realize la prueba intentando conectarse via ssh nuevamente desde la maquina host (windows) hasta la VM linux, si la practica fue realizada de forma correcta, debe de entrar de forma automatica sin solicitar      credenciales.                                                                                                                                                                                              
 
-Lista de reproducción en YouTube para los videos de las prácticas: ↓
+Lista de reproducción en YouTube para los videos de las prácticas: ↓                                                                                                                                                   
 https://www.youtube.com/playlist?list=PLn9wGcsdOtlfZsPTVmRAmvAZ6XDwcZ4-l
