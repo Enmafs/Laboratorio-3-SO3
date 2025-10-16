@@ -1,7 +1,8 @@
 Prática 3.1
 Sudo nano /etc/default/grub
-Sudo grub2-mkconfig -o /boot/grub.cfg
+Sudo grub2-mkconfig -o /boot/grub2/grub.cfg
 Reboot
+#Recuperar contraseña de root por grub#
 Rw 
 Init=/bin/bash
 Mount -o remount,rw /
@@ -62,3 +63,4 @@ Ssh-keygen
 Ssh-copy-id user@ip-server
 
 Ssh usuario@ip-server
+
