@@ -1,4 +1,4 @@
-Comandos utilizados practica 3.1
+Prática 3.1
 Sudo nano /etc/default/grub
 Sudo grub2-mkconfig -o /boot/grub.cfg
 Reboot
@@ -9,7 +9,7 @@ Passwd efelz
 Touch /.autorelabel
 Exec /sbin/init
 
-Comandos utilizados práctica 3.2
+Práctica 3.2
 Sudo mkdir /home/efeliz/backups
 ls
 Nano backup.sh
@@ -51,7 +51,7 @@ Chmod +x ifconfig.sh
 ./ifconfig.sh
 Ls
 Cat red.txt
-Comandos utilizados práctica 3.3
+Práctica 3.3
 Ip a
 Sudo dnf install openssh -y
 Sudo systemctl status ssd
@@ -60,4 +60,5 @@ Ssh usuario@(ip)
 exit
 Ssh-keygen
 Ssh-copy-id user@ip-server
+
 Ssh usuario@ip-server
